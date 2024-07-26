@@ -188,3 +188,10 @@ img {
     margin-left: 15px;
     border-left: 1px solid #000;
 }
+
+.flex {
+    flex-direction: row;
+    display: flex;
+    flex-basis: auto;
+    flex-wrap: nowrap;
+}
