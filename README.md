@@ -1,5 +1,5 @@
 # UFCG
 # CIÊNCIA DA COMPUTAÇÃO
-## PROGRMAÇÃO PARA WEB
+## Programação WEB
 
-## ROTEIRO 2
+## Roteiro 2
